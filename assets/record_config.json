@@ -1,8 +1,0 @@
-{
-  "fields": [
-    { "key": "no_id",          "label": "No ID",            "type": "bool" },
-    { "key": "late_excused",   "label": "Late (excused)",   "type": "bool" },
-    { "key": "late_unexcused", "label": "Late (unexcused)", "type": "bool" },
-    { "key": "other",          "label": "Other",            "type": "text" }
-  ]
-}
